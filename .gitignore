@@ -9,6 +9,10 @@ __pycache__/
 # SQLite Local Database
 *.sqlite3
 
+# IDE Directories
+.vscode
+.idea
+
 # Distribution / packaging
 .Python
 build/

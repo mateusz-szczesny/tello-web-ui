@@ -13,6 +13,11 @@ __pycache__/
 .vscode
 .idea
 
+# Static files
+
+static
+staticfiles
+
 # Distribution / packaging
 .Python
 build/
